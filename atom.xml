@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zozo54.github.io/atom.xml" rel="self"/>
   <link href="http://zozo54.github.io/"/>
-  <updated>2014-07-29T18:43:27+02:00</updated>
+  <updated>2014-07-30T11:20:16+02:00</updated>
   <id>http://zozo54.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Premier Blog Test]]></title>
+    <link href="http://zozo54.github.io/blog/2014/07/30/premier-blog-test/"/>
+    <updated>2014-07-30T11:14:39+02:00</updated>
+    <id>http://zozo54.github.io/blog/2014/07/30/premier-blog-test</id>
+    <content type="html"><![CDATA[<p>Bonjour,</p>
+
+<p>Je fais juste un test de blog pour voir ;&ndash;)</p>
+]]></content>
+  </entry>
   
 </feed>
